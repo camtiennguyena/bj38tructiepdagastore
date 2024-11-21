@@ -1,22 +1,20 @@
-Welcome to Lumache's documentation!
+BJ38
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`BJ38 <https://tructiepdaga.store/>`_ là nền tảng giải trí trực tuyến uy tín, nổi bật trong lĩnh vực casino và đá gà trực tiếp. Được thiết kế nhằm đáp ứng mọi nhu cầu của người chơi, BJ38 mang đến trải nghiệm giải trí toàn diện với giao diện thân thiện, dịch vụ khách hàng chuyên nghiệp và hệ thống bảo mật tối ưu.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+BJ38 không chỉ thu hút với các trận đá gà trực tiếp C1, C2, C3 sôi động, mà còn đa dạng hóa dịch vụ với casino trực tuyến, cá cược thể thao, trò chơi bắn cá, và xổ số trực tuyến. Điểm nổi bật của BJ38 là chính sách khuyến mãi hấp dẫn dành cho người chơi mới, cùng các ưu đãi định kỳ, mang lại giá trị và niềm vui tối đa.
 
-.. note::
+Hãy khám phá BJ38 ngay hôm nay để tận hưởng không gian giải trí đỉnh cao, minh bạch và an toàn, nơi bạn có thể thỏa mãn đam mê cá cược và tận hưởng những giây phút thư giãn trọn vẹn!
 
-   This project is under active development.
+Thông tin liên hệ: 
 
-Contents
---------
+Địa chỉ: 1205 Đ. Vĩnh Lộc, Vĩnh Lộc B, Bình Chánh, Hồ Chí Minh, Vietnam. 
 
-.. toctree::
+Phone: 0780031587. 
 
-   usage
-   api
+Email: admin@tructiepdaga.store. 
+
+Website: https://tructiepdaga.store/ 
+
+#bj38 #trangchubj38 #dangkybj38 #dangnhapbj38 #linkbj38
